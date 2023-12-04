@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.game-title {
+  margin: 20px;
+  text-align: center;
+}
+
+#canvas {
+  display: flex;
+  margin: 10px auto;
+  border: 2px solid black;
+}
